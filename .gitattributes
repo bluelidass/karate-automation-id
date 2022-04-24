@@ -1,1 +1,2 @@
 *.feature linguist-detectable=true
+*.java linguist-language=Java
